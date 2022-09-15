@@ -1,4 +1,4 @@
-![logo](https://github.com/ovichowdhury1/OviChowdhury1/blob/main/Add%20a%20little%20bit%20of%20body%20text.png)
+![logo](https://github.com/ovichowdhury1/OviChowdhury1/blob/main/Add%20a%20little%20bit%20of%20body%20text%20(1).png)
 <h1 align="center">Hi 👋, I'm Ovi Chowdhury</h1>
 <h3 align="center">A passionate Software Engineer developer from Bagladesh</h3>
 

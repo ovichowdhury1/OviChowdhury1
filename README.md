@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovichowdhury1&label=Profile%20views&color=0e75b6&style=flat" alt="ovichowdhury1" /> </p>
 
-- 📫 How to reach me **ovichowdhury13191@gmail.com**
+- 📫 How to reach me **ovichowdhury1001@gmail.com**
 
 - ⚡ Fun fact **I am Funny😅**
 
